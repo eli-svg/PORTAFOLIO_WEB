@@ -1,0 +1,39 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: #CD1212;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Bebas Neue', cursive;
+}
+body {
+  background-image: url('IMAGES/FONDO1.png');
+  background-size: cover;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+.footer-link{
+  font-family: 'Bebas Neue', cursive;
+  color:#CD1212;
+}
+p{
+  font-family: 'Work Sans', sans-serif;
+}
+.logoo {
+  text-align: left;
+  float: left;
+}
+font-family: 'Bebas Neue', cursive;
+font-family: 'Work Sans', sans-serif;
